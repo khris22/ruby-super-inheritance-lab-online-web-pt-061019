@@ -8,7 +8,7 @@ class Student
   # end
 
   def hello
-    @greeting
+    greeting
   end
 
   def raise_hand
