@@ -1,5 +1,5 @@
 class Student
-  attr_accessor :name
+
 
   # def initialize
   #   @name = name
@@ -8,12 +8,13 @@ class Student
   # end
 
   def hello
-    greeting
+    greeting = "Hey there! I'm so excited to learn stuff."
+    puts greeting
   end
 
   def raise_hand
-    @raise_hand = "Pick me!"
-    @raise_hand
+    # @raise_hand = "Pick me!"
+    # @raise_hand
   end
 
 end
