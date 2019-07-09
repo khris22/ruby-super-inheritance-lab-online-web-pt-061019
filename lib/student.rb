@@ -1,6 +1,6 @@
 class Student
 
-  def hellos
+  def hello
     greeting = "Hey there! I'm so excited to learn stuff."
     greeting
   end
