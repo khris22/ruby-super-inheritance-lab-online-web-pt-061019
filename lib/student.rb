@@ -6,7 +6,7 @@ class Student
     @greeting = "Hey there! I'm so excited to learn stuff."
     @raise_hand = "Pick me!"
   end
-  
+
   def hello
     @greeting = "Hey there! I'm so excited to learn stuff."
     @greeting
