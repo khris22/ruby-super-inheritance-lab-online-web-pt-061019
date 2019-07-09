@@ -5,9 +5,9 @@ class ChattyStudent < Student
     puts long_chatty_phrase
   end
 
-  def raise_hand
-    super
-    10.times do
-  end
+  # def raise_hand
+  #   super
+  #   10.times do
+  # end
 
 end
