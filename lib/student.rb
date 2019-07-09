@@ -1,15 +1,8 @@
 class Student
 
-
-  # def initialize
-  #   @name = name
-  #   @greeting = "Hey there! I'm so excited to learn stuff."
-  #   @raise_hand = "Pick me!"
-  # end
-
   def hello
     greeting = "Hey there! I'm so excited to learn stuff."
-    puts greeting
+    return greeting
   end
 
   def raise_hand
