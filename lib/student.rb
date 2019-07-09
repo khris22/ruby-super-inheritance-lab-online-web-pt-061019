@@ -13,8 +13,8 @@ class Student
   end
 
   def raise_hand
-    # @raise_hand = "Pick me!"
-    # @raise_hand
+    phrase = "Pick me!"
+    puts phrase
   end
 
 end
